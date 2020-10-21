@@ -1,0 +1,56 @@
+body{
+    color:rgb(29, 29, 29);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:12px;
+    font-weight:400;
+
+    line-height:2em;
+}
+
+.black-border{
+    border:2px solid black;
+}
+
+header{
+    color: teal;
+    text-align: center;
+    background-color: rgb(54, 52, 52)
+  }
+
+header{
+    width: 100%;
+    margin: 0px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+nav{
+    color:white;
+}
+
+a{
+    color:white
+}
+
+h1{
+    color: teal
+}
+
+h2,h3{
+    color: black;
+}
+
+#para1{
+    background-color:teal;
+    color: white;
+}
+
+#para2{
+    background-color:teal;
+    color: white;
+}
+
+#para3{
+    background-color:teal;
+    color: white;
+}
